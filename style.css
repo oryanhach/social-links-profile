@@ -22,7 +22,6 @@ body {
 	color: white;
 	display: flex;
 	flex-direction: column;
-	/* justify-content: center; */
 	align-items: center;
 }
 
@@ -91,4 +90,4 @@ body {
 	color: black;
 }
 
-/* Reminder to self, I made p tags instead of buttons and they have no links */
+/* Reminder to self,maybe add box shadow, and I made p tags instead of buttons and they have no links */
