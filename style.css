@@ -85,9 +85,10 @@ body {
 	margin-bottom: 16px;
 }
 
-.social-links-container .social-links:nth-child(1) {
+.social-links:hover {
 	background-color: hsl(75, 94%, 57%);
 	color: black;
+	cursor: pointer;
 }
 
 /* Reminder to self,maybe add box shadow, and I made p tags instead of buttons and they have no links */
